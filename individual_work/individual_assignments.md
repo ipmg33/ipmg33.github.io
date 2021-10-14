@@ -1,3 +1,5 @@
+# Individual Assignments
+
 
 [<img src="../img/delmar.svg" alt="Delmar Santos 55836" width="200"/>](./individual_work_delmar.md)
 
@@ -13,13 +15,12 @@ Filipe Melo 55643
 ---
 
 
-[Miguel Santos 55320](./individual_work_miguel.md)
+[<img src="../img/santao.svg" alt="Miguel Santos 55320" width="200"/>](./individual_work_miguel.md)
+
+Miguel Santos 55320
+
+---
 
 [<img src="../img/tiago.svg" alt="Tiago Ventura 55218" width="200"/>](./individual_work_tiago.md)
 
 Tiago Ventura 55218
-
----
-
-
-[<img src="../img/logoSamevensa.svg" alt="teste" width="200"/>](./)
