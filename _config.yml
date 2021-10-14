@@ -2,6 +2,6 @@ theme: jekyll-theme-minimal
 
 title: IPM G33
 
-logo: ../img/logoSamvensaComNome.svg
+logo: ./img/logoSamvensaComNome.svg
 
 
