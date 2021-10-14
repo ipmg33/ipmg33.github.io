@@ -1,3 +1,7 @@
 theme: jekyll-theme-minimal
 
-title: Teste de titulo
+title: IPM G33
+
+logo: ../img/logoSamevensa.svg
+
+description: Samevensa
