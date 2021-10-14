@@ -2,4 +2,4 @@
 
 
 
-[Individual Assingments](./individual_assignments.md)
+[Individual Assingments](./individual_work/individual_assignments.md)
