@@ -1,6 +1,9 @@
 [Delmar Santos 55836](./individual_work_delmar.md)
 
-[<img src="../img/melo.svg" alt="Filipe Melo 55643" width="200"/>](./individual_work/individual_work_filipe.md)
+
+
+[<img src="../img/melo.svg" alt="Filipe Melo 55643" width="200"/>](./individual_work_filipe.md)
+
 Filipe Melo 55643
 
 ---
