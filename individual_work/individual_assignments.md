@@ -15,7 +15,7 @@ Filipe Melo 55643
 ---
 
 
-[<img src="../img/santao.svg" alt="Miguel Santos 55320" width="200"/>](./individual_work_miguel.md)
+[<img src="../img/'foto tipo passe.jpg'" alt="Miguel Santos 55320" width="200"/>](./individual_work_miguel.md)
 
 Miguel Santos 55320
 
