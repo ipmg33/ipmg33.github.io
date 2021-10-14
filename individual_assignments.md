@@ -2,6 +2,6 @@
 
 [Filipe](./individual_work_filipe.md)
 
-[Miguel](./individual_work_Miguel.md)
+[Miguel](./individual_work_miguel.md)
 
 [Tiago](./individual_work_tiago.md)
