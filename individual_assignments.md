@@ -6,4 +6,4 @@
 
 [Tiago Ventura 55218](./individual_work_tiago.md)
 
-[![teste](./img/logoSamevensa.svg)](./)
+[<img src="./img/logoSamevensa.svg" alt="teste" width="200"/>](./)
