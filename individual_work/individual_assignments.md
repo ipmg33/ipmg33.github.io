@@ -10,4 +10,4 @@ Filipe Melo 55643
 
 [Tiago Ventura 55218](./individual_work_tiago.md)
 
-[<img src="./img/logoSamevensa.svg" alt="teste" width="200"/>](./)
+[<img src="../img/logoSamevensa.svg" alt="teste" width="200"/>](./)
