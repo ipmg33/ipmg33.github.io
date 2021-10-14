@@ -1,7 +1,7 @@
-[Delmar](./individual_work_delmar.md)
+[Delmar Santos 55836](./individual_work_delmar.md)
 
-[Filipe](./individual_work_filipe.md)
+[Filipe Melo 55643](./individual_work_filipe.md)
 
-[Miguel](./individual_work_miguel.md)
+[Miguel Santos 55320](./individual_work_miguel.md)
 
-[Tiago](./individual_work_tiago.md)
+[Tiago Ventura 55218](./individual_work_tiago.md)
