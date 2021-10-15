@@ -8,14 +8,14 @@ Delmar Santos 55836
 ---
 
 
-[<img src="../img/melo.svg" alt="Filipe Melo 55643" width="200"/>](./individual_work_filipe.md)
+[<img src="../img/melopic.jpeg" alt="Filipe Melo 55643" width="200"/>](./individual_work_filipe.md)
 
 Filipe Melo 55643
 
 ---
 
 
-[<img src="../img/santao.svg" alt="Miguel Santos 55320" width="200"/>](./individual_work_miguel.md)
+[<img src="../img/Santaopic.jpeg" alt="Miguel Santos 55320" width="200"/>](./individual_work_miguel.md)
 
 Miguel Santos 55320
 
