@@ -17,4 +17,7 @@ that tries to grab some ice pushes the door instead of pulling it, I consider it
 has happened to the point that now the door is constantly open inwards, which leads to people pushing it even more.
 
 
+## Good interface
+
+
 
