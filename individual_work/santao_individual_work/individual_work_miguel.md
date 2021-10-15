@@ -5,6 +5,8 @@
 
 <img src="./porta_gelo.jpg" alt="Freezer ice door" width="200"/>
 <img src="./porta_gelo_ma.jpg" alt="Freezer ice door damaged" width="200"/>
+
+
 This is the door to the ice maker from a siemens freezer, it is intended to open towards the user
 since the mechanism that produces ice blocks the door form opening inwards. That is why there is a groove
 bellow the door and a little curve at the bottom of it, so the user can pull it in order to get it open.
