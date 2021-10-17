@@ -22,7 +22,7 @@ has happened to the point that now the door is constantly open inwards, which le
 <img src="./amazon.png" alt="Amazon" width="500"/>
 
 The interface of Amazon is designed in a way that customers are encouraged to purchase and feel comfortable
-with the available interface and design and utilities.
+with the available design and utilities.
 
 1. There are several item categories. These items are placed apropriately in different sets so that it is easy
 for the user to locate and purchase them.
