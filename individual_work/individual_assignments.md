@@ -21,6 +21,6 @@ Miguel Santos 55320
 
 ---
 
-[<img src="../img/tiago2.svg" alt="Tiago Ventura 55218" width="200"/>](./individual_work_tiago.md)
+[<img src="../img/tiagopic.png" alt="Tiago Ventura 55218" width="200"/>](./individual_work_tiago.md)
 
 Tiago Ventura 55218
