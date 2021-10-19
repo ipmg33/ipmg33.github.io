@@ -8,7 +8,7 @@ Delmar Santos 55836
 ---
 
 
-[<img src="../img/melopic.jpeg" alt="Filipe Melo 55643" width="200"/>](./individual_work_filipe.md)
+[<img src="../img/melopic.jpeg" alt="Filipe Melo 55643" width="200"/>](./melo_individual_work/melo_assignment_1.md)
 
 Filipe Melo 55643
 
