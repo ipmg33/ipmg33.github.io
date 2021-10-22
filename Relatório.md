@@ -14,6 +14,7 @@
     - [Take a number](#take-a-number)
     - [Call the next costumer](#call-the-next-costumer)
     - [Setup a venue](#setup-a-venue)
+  - [Scenarios](#scenarios)
 
 ### Problem
 The problem we chose to handle focuses on when people take a number in a store.
@@ -123,3 +124,18 @@ After this the admin can enable the view for the user to take a number from.
 
 As exceptions:
 <span style="color:grey"> No exceptions yet
+
+<br>
+
+## Scenarios
+
+>- Mr. José Luís enters Vasco da Gama’s Continente, takes a number to the charcuterie because her daughter loves their cheese.
+He also needs meat for lunch, so meanwhile waiting for it’s turn at the charcuterie, he sees through our interface that the current butcher shop number is 38, and if he takes a ticket he’ll be number 59, with an average time of 3 minutes per person, and thinks “Maybe I’ll just pass in the butcher shop at Pingo Doce Olivais…”, selects the referred shop and sees that are just 5 people in queue, “Alright! When I arrive there I’ll take a number, it saves me some time and I’m in such a rush right now”, as he starts thinking on everything he has to do today, receives a notification on his smartphone that his turn has arrived.
+
+>- Damásio Bonifácio, software engineer at a finances shop in Lisbon, has to analyse some data, such as the number of people that were attended at the shop during this last month, to show to his superior with the goal to achieve some important statistics.
+Damásio is a lucky guy, since the backend office of our application stores the averages and number of customers in one of the following periods of time: week, month and year, saving a lot of time for him. He can also have permissions to make some querys to the database, for more specific information.
+
+>- Alfredo Pais is a clerk at Intermarché’s fishmonger, that has had a busy day at his job, serving customer after customer, passing from one to another using the "Call Next Number" button, sometimes due to his tiredness, he has clicked in the button when there was no active number at the moment, receiving a message to alert him from his mistake (he can always see the amount of active numbers).
+
+
+
