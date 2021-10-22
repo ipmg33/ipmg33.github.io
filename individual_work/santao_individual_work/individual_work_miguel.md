@@ -16,6 +16,7 @@ At first glance it might not be a bad interface, but since i have had this freez
 that tries to grab some ice pushes the door instead of pulling it, I consider it a bad interface. This 
 has happened to the point that now the door is constantly open inwards, which leads to people pushing it even more.
 
+****
 
 ## Good interface
 
