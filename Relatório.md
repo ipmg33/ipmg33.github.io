@@ -59,7 +59,7 @@ The adminstrator will have an admin interface.
 
 ### Register
 
-For this action the user must enter a username, email and password. The objective is register the new user in the system's database.
+For this action the user must enter a username, email and password. The objective is to register the new user in the system's database.
 <br>The user might register to the application with Google as well.
 <br>As pre-conditions:
 
@@ -81,6 +81,33 @@ This will be a rather frequent task, but each user will just go through it once.
 
 ### Take a number
 
+In this task the user will have registered and logged in, done that they will be presented with a choice of venues, choosing one will bring them to a new screen where they can choose the service of the number they want to take. The objective is that the user takes the number corresponding to the service they need.
+<br>As pre-conditions:
+
+> - The user must be registered and logged in.
+> - The user must be within range of the venue of which they choose to take a number from.
+> - The user must not have an active number () for the service they are trying to take a number from.
+
+After that the store clerk will know there is a new customer in the queue, and the timer for them to be served starts, so that the system can estimate the average waiting time.
+
+As exceptions:
+
+> - If the venue is closed, taking a number will fail.
+> - If the user has 3 active numbers, this task will fail.
+
+This will be one of the most frequent tasks.
+
 ### Call the next costumer
+
+For this task the clerk must press the "call the next number" button. The objective is to call the next number.
+
+As pre-conditions:
+<span style="color:grey"> No pre-conditions
+
+Next the timer for the user to be served stops.
+
+As exceptions:
+
+>- The next number has to be taken.
 
 ### Setup a store
