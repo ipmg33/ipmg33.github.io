@@ -13,7 +13,7 @@
     - [Register](#register)
     - [Take a number](#take-a-number)
     - [Call the next costumer](#call-the-next-costumer)
-    - [Setup a store](#setup-a-store)
+    - [Setup a venue](#setup-a-venue)
 
 ### Problem
 The problem we chose to handle focuses on when people take a number in a store.
@@ -102,7 +102,7 @@ This will be one of the most frequent tasks.
 For this task the clerk must press the "call the next number" button. The objective is to call the next number.
 
 As pre-conditions:
-<span style="color:grey"> No pre-conditions
+<span style="color:grey"> No pre-conditions yet
 
 Next the timer for the user to be served stops.
 
@@ -110,4 +110,16 @@ As exceptions:
 
 >- The next number has to be taken.
 
-### Setup a store
+### Setup a venue
+
+The admin will be configure the services available in the venue for the user to take a number.
+
+As pre-condition:
+
+>- Service names have to be different.
+>- There has to be at least one service.
+
+After this the admin can enable the view for the user to take a number from.
+
+As exceptions:
+<span style="color:grey"> No exceptions yet
