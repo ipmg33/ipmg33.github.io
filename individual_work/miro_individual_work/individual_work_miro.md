@@ -3,10 +3,10 @@
 
 ## Bad Interface
 
-<p style="text-align:center;">
+
 <img src="./piggy_bank.jpg" alt="Piggy Bank" width="250" />
 
-<br>
+
 The traditional piggy bank, a funny way for you to store your savings such as coins and bills, in a “safe” place without the temptation of spending all the money you have.
 
 Although it seems pretty cool, it’s not the best interface, at all! If you had save enough money to use it, you have two choices to get the money out: or break the piggy or try to fit all of your coins and bills trough the little fissure where you put the money in at the first place.
@@ -22,7 +22,7 @@ It’s funny, aesthetically pleasing, and good to store money, but a not so good
 
 ## Good interface
 
-<p style="text-align:center;">
+
 <img src="./mbmenu.png" alt="Amazon" width="250"/>
 <br>
 An example of a good interface is used in an ATM machine like Multibanco, which has a very intuitive and easy to use interface.

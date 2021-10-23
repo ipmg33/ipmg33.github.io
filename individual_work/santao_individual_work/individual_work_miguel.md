@@ -3,7 +3,7 @@
 
 ## Bad Interface
 
-<p style="text-align:center;">
+
 <img src="./porta_gelo.jpg" alt="Freezer ice door" width="200"/>
 <img src="./porta_gelo_ma.jpg" alt="Freezer ice door damaged" width="200"/>
 
@@ -21,7 +21,7 @@ has happened to the point that now the door is constantly open inwards, which le
 
 ## Good interface
 
-<p style="text-align:center;">
+
 <img src="./amazon.png" alt="Amazon" width="500"/>
 
 The interface of Amazon is designed in a way that customers are encouraged to purchase and feel comfortable

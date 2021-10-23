@@ -2,7 +2,7 @@
 
 ## Example of a Bad Interface
 
-<p style="text-align:center;">
+
 <img src='./microwave_timer.jpg' alt='Microwave Timer' width='200' height='350'/>
 
 As an example of a bad interface, I chose the timer of my personal microwave at home.
