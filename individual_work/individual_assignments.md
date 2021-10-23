@@ -1,7 +1,7 @@
 # Individual Assignments
 
 
-[<img src="../img/miropic.jpeg" alt="Delmar Santos 55836" width="200"/>](./individual_work_delmar.md)
+[<img src="../img/miropic.jpeg" alt="Delmar Santos 55836" width="200"/>](./miro_individual_work/individual_work_miro.md)
 
 Delmar Santos 55836
 
