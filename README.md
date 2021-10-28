@@ -4,6 +4,6 @@
 
 [Individual Assignments](./individual_work/individual_assignments.md)
 
-[Stage 1]()
+[Stage 1](./Relatorio1.md)
 
 [Stage 2](./Relatorio2.md)
