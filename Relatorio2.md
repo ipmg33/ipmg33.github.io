@@ -69,7 +69,7 @@ For this action the user must enter a username, email and password. The objectiv
 > - Password should have a minimum of 6 characters and maximum of 16 characters.
 > - The username should have a maximum of 16 characters.
 
-The back-office will then send an email to the registering user to confirm the account and if it is confirmed, the user shall be added to the database.
+The user then will have to go to their email to confirm the account.
 
 As exceptions:
 
@@ -89,7 +89,7 @@ In this task the user will have registered and logged in, done that they will be
 > - The user must be within range of the venue of which they choose to take a number from.
 > - The user must not have an active number () for the service they are trying to take a number from.
 
-After that the store clerk will know there is a new customer in the queue, and the timer for them to be served starts, so that the system can estimate the average waiting time.
+After that the store clerk will know there is a new customer in the queue.
 
 As exceptions:
 
@@ -100,12 +100,10 @@ This will be one of the most frequent tasks.
 
 ### Call the next costumer
 
-For this task the clerk must press the "call the next number" button. The objective is to call the next number.
+For this the objective is to call the next number.
 
 As pre-conditions:
 <span style="color:grey"> No pre-conditions yet
-
-Next the timer for the user to be served stops.
 
 As exceptions:
 
@@ -113,7 +111,7 @@ As exceptions:
 
 ### Setup a venue
 
-The admin will be configure the services available in the venue for the user to take a number.
+The admin will configure the services available in the venue for the user to take a number.
 
 As pre-condition:
 
@@ -130,12 +128,12 @@ As exceptions:
 ## Scenarios
 
 >- Mr. José Luís enters Vasco da Gama’s Continente, takes a number to the charcuterie because her daughter loves their cheese.
-He also needs meat for lunch, so meanwhile waiting for it’s turn at the charcuterie, he sees through our interface that the current butcher shop number is 38, and if he takes a ticket he’ll be number 59, with an average time of 3 minutes per person, and thinks “Maybe I’ll just pass in the butcher shop at Pingo Doce Olivais…”, selects the referred shop and sees that are just 5 people in queue, “Alright! When I arrive there I’ll take a number, it saves me some time and I’m in such a rush right now”, as he starts thinking on everything he has to do today, receives a notification on his smartphone that his turn has arrived.
+He also needs meat for lunch, so meanwhile waiting for it’s turn at the charcuterie, he sees through our interface that the current butcher shop number is 38, and if he takes a ticket he’ll be number 59, with an average time of 3 minutes per person, and thinks “Maybe I’ll just pass in the butcher shop at Pingo Doce Olivais…”, selects the referred shop and sees that there are just 5 people in queue, “Alright! When I arrive there I’ll take a number, it saves me some time and I’m in such a rush right now”, as he starts thinking on everything he has to do today, receives a notification on his smartphone that his turn has arrived.
 
 >- Damásio Bonifácio, software engineer at a finances shop in Lisbon, has to analyse some data, such as the number of people that were attended at the shop during this last month, to show to his superior with the goal to achieve some important statistics.
 Damásio is a lucky guy, since the backend office of our application stores the averages and number of customers in one of the following periods of time: week, month and year, saving a lot of time for him. He can also have permissions to make some querys to the database, for more specific information.
 
->- Alfredo Pais is a clerk at Intermarché’s fishmonger, that has had a busy day at his job, serving customer after customer, passing from one to another using the "Call Next Number" button, sometimes due to his tiredness, he has clicked in the button when there was no active number at the moment, receiving a message to alert him from his mistake (he can always see the amount of active numbers).
+>- Alfredo Pais is a clerk at Intermarché’s fishmonger, that has had a busy day at his job, serving customer after customer, passing from one to another, sometimes due to his tiredness, he has called a number when there was no active one at the moment, receiving a message to alert him from his mistake (he can always see the amount of active numbers).
 
 
 

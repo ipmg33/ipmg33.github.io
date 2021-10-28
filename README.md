@@ -2,7 +2,7 @@
 
 
 
-[Individual Assingments](./individual_work/individual_assignments.md)
+[Individual Assignments](./individual_work/individual_assignments.md)
 
 [Stage 1]()
 
