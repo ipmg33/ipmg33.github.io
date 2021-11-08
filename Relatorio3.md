@@ -4,6 +4,7 @@
   - [Storyboard](#storyboard)
     - [Register](#register)
     - [Take a Number](#take-a-number)
+  - [Prototype Photos and Links](#prototype-photos-and-links)
   - [Briefing](#briefing)
   - [Scenarios](#scenarios)
 
@@ -52,6 +53,18 @@ width = 200 height = 300>
 
 <br><br>
 
+## Prototype Photos and Links
+
+<img src="./img/Relevant_1.png" alt="Relevant Photo 1"/>
+
+<img src="./img/Relevant_2.png" alt="Relevant Photo 2"/>
+
+Customer interface prototype link: https://marvelapp.com/prototype/8didjc0/screen/83066814
+
+<img src="./img/Relevant_3.png" alt="Relevant Photo 3"/>
+
+Back Office interface prototype link: https://marvelapp.com/prototype/h7jb46h/screen/83067811
+
 ## Briefing
 
 <br>
@@ -64,26 +77,17 @@ Our system has the goal to manage the number taken in stores, by giving clients 
 
 <br>
 
-> ### Customer
+> ### 1st Scenario
 
-Mr. José Luís enters Vasco da Gama’s Continente, takes a number to the charcuterie because her daughter loves their cheese.
+You need bread, and you are near Cascais.
+The objective is for you to take a ticket for "Padaria" in the "Loja Cascais".
 
-<p>
-He also needs meat for lunch, so meanwhile waiting for it’s turn at the charcuterie, he sees through our interface that the current butcher shop number is 38, and if he takes a ticket he’ll be number 59, with an average time of 3 minutes per person, and thinks “Maybe I’ll just pass in the butcher shop at Pingo Doce Olivais”.
+> ### 2nd Scenario
 
-<p>
-Selects the referred shop and sees that there are just 5 people in queue, “Alright! When I arrive there I’ll take a number, it saves me some time and I’m in such a rush right now...”, as he starts thinking on everything he has to do today, receives a notification on his smartphone that his turn has arrived.
+You want to retrace your steps from a previous day when you went to a certain shop.
+Check how much time you spent waiting for your "Charcutaria" in "Loja de Santarém" ticket.
 
-<br>
+> ### 3rd Scenario
 
-> ### Admin
-
-Damásio Bonifácio, software engineer at a finances shop in Lisbon, has to analyse some data, such as the number of people that were attended at the shop during this last month, to show to his superior with the goal to achieve some important statistics.
-<p>
-Damásio is a lucky guy, since the website that we provide to the administrators of our application stores the average waiting time, per capita, and the number of customers of the services that the admin are in charge of, allowing him to easily take the information he needs.
-
-<br>
-
-> ### Clerk
-
-Alfredo Pais is a clerk at Intermarché’s fishmonger, that has had a busy day at his job, serving customer after customer, passing from one to another, sometimes due to his tiredness, he has called a number when there was no one in queue, receiving a message to alert him from his mistake (he can always see the amount of active numbers).
+You want to see if you have enough time to go to some store before your upcoming ticket.
+The objective is to check how much estimated time you have to wait for your "Charcutaria" in "Loja de Sintra" ticket.
