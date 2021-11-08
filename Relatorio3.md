@@ -1,10 +1,17 @@
 # Stage 3: 1st prototype
 - [Stage 3: 1st prototype](#stage-3-1st-prototype)
+  - [Storyboard](#storyboard)
   - [Briefing](#briefing)
   - [Scenarios](#scenarios)
     - [Take a number](#take-a-number)
     - [Check wait time](#check-wait-time)
     - [Check the X statistic](#check-the-x-statistic)
+
+
+## Storyboard
+<img src="./img/Sequence.png" alt="Sequence"/>
+
+
 ## Briefing
 
 Our system has the goal to manage the number taken in stores, by giving clients the information of what number is currently being seen and the estimated time to be seen, which will help people to do anything in the mean time. It also will provide statistics that the store manager can use to better help the venue, statistics such as the average waiting time, the busiest periods (being those hours or days), busiest departments.
