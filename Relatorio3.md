@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # **Stage 3: 1st prototype**
 - [Stage 3: 1st prototype](h#stage-3-1st-prototype)
 - [Sketches (in Adobe Illustrator)](#sketches-in-adobe-illustrator)
@@ -48,6 +49,7 @@ Customer interface prototype link: <https://marvelapp.com/prototype/8didjc0/scre
 Back Office interface prototype link: <https://marvelapp.com/prototype/h7jb46h/screen/83067811>
 ## **Briefing**
 
+
 Our system has the goal to manage the number taken in stores, by giving clients the information of what number is currently being seen and the estimated time to be seen, which will help people to do anything in the mean time. It also will provide statistics that the store manager can use to better help the venue, statistics such as the average waiting time, the busiest periods (being those hours or days), busiest departments.
 
 ## **Scenarios**
@@ -63,3 +65,6 @@ You want to retrace your steps from a previous day when you went to a certain sh
 3rd Scenario
 
 You want to see if you have enough time to go to some store before your upcoming ticket. The objective is to check how much estimated time you have to wait for your "Charcutaria" in "Loja de Sintra" ticket.
+
+<br><br>
+
