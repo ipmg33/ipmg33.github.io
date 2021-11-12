@@ -7,3 +7,5 @@
 [Stage 1](./Relatorio1.md)
 
 [Stage 2](./Relatorio2.md)
+
+[Stage 3](./Relatorio3.md)
