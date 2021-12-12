@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # **Stage 3: 1st prototype**
 - [Stage 3: 1st prototype](h#stage-3-1st-prototype)
 - [Sketches (in Adobe Illustrator)](#sketches-in-adobe-illustrator)
