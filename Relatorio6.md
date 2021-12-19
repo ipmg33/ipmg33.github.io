@@ -9,6 +9,12 @@
     - [***No information account***](#no-information-account)
     - [***Inconsistent font weights***](#inconsistent-font-weights)
     - [***Several spacing inconsistencies***](#several-spacing-inconsistencies)
+    - [***Unclear and inappropriate location for the “Call next” button***](#unclear-and-inappropriate-location-for-the-call-next-button)
+    - [***No information about the current ticket***](#no-information-about-the-current-ticket)
+    - [***Lack of feedback on button actions***](#lack-of-feedback-on-button-actions)
+    - [***Graphics queries***](#graphics-queries)
+    - [***Graphics overflow***](#graphics-overflow)
+    - [***There is no help in the documentation***](#there-is-no-help-in-the-documentation)
 
 <br>
 
@@ -50,3 +56,41 @@ This minor issue has been fixed and now all similar text has equal properties.
 ### ***Several spacing inconsistencies***
 
 We had some different views with different spacings, but that has been easily fixed, and now, all items are equally spaced.
+
+
+<br>
+
+### ***Unclear and inappropriate location for the “Call next” button***
+
+We created a separate section for this function.
+
+<br>
+
+### ***No information about the current ticket***
+
+We added the ticket to be called beside the “call next” button.
+
+<br>
+
+### ***Lack of feedback on button actions***
+
+Added some small pop up notifications that indicate an action done.
+
+<br>
+
+### ***Graphics queries***
+
+Due to lack of time these are not currently implemented but we totally agree that there should be some pre-made queries.
+
+<br>
+
+### ***Graphics overflow***
+
+We have fixed this by having just two graphics per line, and then adding them to the bottom.
+
+<br>
+
+### ***There is no help in the documentation***
+
+As of now there is no documentation due to lack of time, but our plan is obviously to include some instructions on how to make your own custom query and some FAQs.
+
