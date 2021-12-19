@@ -8,7 +8,6 @@
   - [Delivery](#delivery)
 
 <br>
-<br>
 
 ## Heuristic Evaluation
 

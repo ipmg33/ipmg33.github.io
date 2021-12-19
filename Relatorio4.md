@@ -1,3 +1,5 @@
+# Stage 4: Functional prototype 
+
 - [Stage 4: Functional prototype](#stage-4-functional-prototype)
   - [**URL**](#url)
   - [**Startup instructions**](#startup-instructions)
@@ -10,7 +12,7 @@
   - [**Incomplete Parts**](#incomplete-parts)
   - [**Tools**](#tools)
 
-# Stage 4: Functional prototype 
+<br>
 
 ## **URL**
 <br>

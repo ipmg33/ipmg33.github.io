@@ -10,8 +10,8 @@
 
 [Stage 3](./Relatorio3.md)
 
-[Stage 4](./Relatorio1.md)
+[Stage 4](./Relatorio4.md)
 
-[Stage 5](./Relatorio2.md)
+[Stage 5](./Relatorio5.md)
 
-[Stage 6](./Relatorio3.md)
+[Stage 6](./Relatorio6.md)

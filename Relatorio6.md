@@ -1,3 +1,6 @@
+
+# Stage 6: Evaluation results and presentation of the final project
+
 - [Stage 6: Evaluation results and presentation of the final project](#stage-6-evaluation-results-and-presentation-of-the-final-project)
   - [**Problems pointed out by the heuristic evaluators**](#problems-pointed-out-by-the-heuristic-evaluators)
     - [***Lack of titles in subsections***](#lack-of-titles-in-subsections)
@@ -7,7 +10,7 @@
     - [***Inconsistent font weights***](#inconsistent-font-weights)
     - [***Several spacing inconsistencies***](#several-spacing-inconsistencies)
 
-# Stage 6: Evaluation results and presentation of the final project
+<br>
 
 ## **Problems pointed out by the heuristic evaluators**
 
